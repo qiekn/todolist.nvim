@@ -2,7 +2,15 @@
 
 ![preview](https://github.com/user-attachments/assets/afc2b24b-b882-4b7a-9b7c-3b4db4774527)
 
-Install with lazy
+## Usage
+
+Commands: `:TodoList`
+
+Default Keymap: `<leader>tt` `<leader>td`
+
+## Install
+
+lazy plugin manager
 
 ```lua
 return {
