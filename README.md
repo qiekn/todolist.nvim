@@ -1,6 +1,6 @@
 # todolist.nvim
 
-![preview](https://github.com/user-attachments/assets/05bab015-933a-41ec-b4a3-85972daba660)
+![preview](https://github.com/user-attachments/assets/6cbbb908-7f13-4447-b108-e114e9b0988b)
 
 Install with lazy
 
