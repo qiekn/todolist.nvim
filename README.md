@@ -8,6 +8,8 @@ Commands: `:TodoList`
 
 Default Keymap: `<leader>tt` `<leader>td`
 
+You can press `q` to quickly close todo-list floating window when your cursor focusing on it
+
 ## Install
 
 lazy plugin manager
