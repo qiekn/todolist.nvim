@@ -16,3 +16,8 @@ return {
   end,
 }
 ```
+
+## Credits
+
+YouTube Video:  
+[Coding with Sphere: How to Make a Floating TODO List | Neovim lugin Tutorial](https://www.youtube.com/watch?v=7Kzv3wUHtyU)
