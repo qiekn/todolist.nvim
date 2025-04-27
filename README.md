@@ -1,5 +1,7 @@
 # todolist.nvim
 
+![preview](https://github.com/user-attachments/assets/05bab015-933a-41ec-b4a3-85972daba660)
+
 Install with lazy
 
 ```lua
