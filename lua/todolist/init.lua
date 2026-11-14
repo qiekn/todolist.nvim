@@ -1,7 +1,7 @@
 local M = {}
 
 local default_opts = {
-  target_file = "~/Documents/notes/todo.md",
+  target_file = "~/notes/todo.md",
   border = "single",
 }
 
@@ -47,6 +47,8 @@ local function open_floating_file(opts)
   vim.bo[buf].swapfile = false
   -- window
   local window = vim.api.nvim_open_win(buf, true, win_config(opts))
+  vim.wo[window].number = false
+  vim.wo[window].relativenumber = false
   vim.api.nvim_set_option_value("winhighlight", "Normal:FloatingTodoNormal", { win = window })
   -- command: quick quit this floating window when press q
   vim.api.nvim_buf_set_keymap(buf, "n", "q", "", {
