@@ -1,6 +1,6 @@
 # todolist.nvim
 
-![preview](https://github.com/user-attachments/assets/afc2b24b-b882-4b7a-9b7c-3b4db4774527)
+<img width="2432" height="1735" alt="Snipaste_2026-11-15_05-40-15" src="https://github.com/user-attachments/assets/9231aeff-7023-4365-9239-cea75869e029" />
 
 ## Usage
 
